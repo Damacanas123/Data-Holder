@@ -1,5 +1,5 @@
 # Data-Holder
-In this project I ipmlemented Feige-Fiat-Shamir zero knowledge protocol in order to block unwanted data retrievals from the service.
+In this project I implemented Feige-Fiat-Shamir zero knowledge protocol in order to block unwanted data retrievals from the service.
 
 The motivation for this project is to keep our family confidential data in a server in a secure way. 
 
